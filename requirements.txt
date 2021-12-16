@@ -22,7 +22,7 @@ MarkupSafe==2.0.1
 Pillow==8.4.0
 pycparser==2.21
 PyDictionary==2.0.1
-pygame==1.9.6
+pygame==1.9.1release --allow-external pygame --allow-unverified pygame
 pyOpenSSL==21.0.0
 requests==2.26.0
 six==1.16.0
